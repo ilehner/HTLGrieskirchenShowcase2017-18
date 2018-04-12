@@ -166,5 +166,13 @@
 	"year": "2017_WS",
 	"info": "Incomplete top down Danmaku with story",
         "status": "0"
+    },
+	 {
+        "title": "Haunting School",
+	"folder": "HauntingSchool",
+	"author": "Ingrid Lehner",
+	"year": "2018",
+	"info": "Haunting Choices Game",
+        "status": "1"
     }
 ]
